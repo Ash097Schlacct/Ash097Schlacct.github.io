@@ -47,8 +47,8 @@ I have learned or am continuing learning in the following programming languages,
 
 ## Connect With Me
 
-- 🌐 Portfolio: [View my portfolio](https://github.com/Ash097Schlacct/Portfolio.md)
-- 💼 LinkedIn:[View my Linkedin] https://www.linkedin.com/in/ashley-steward-27335b303
+- 🌐 Portfolio: [View my portfolio](https://github.com/Ash097Schlacct.github.io/Portfolio.md)
+- 💼 LinkedIn:https://www.linkedin.com/in/ashley-steward-27335b303
 - 📧 Email: ashwatd04@gmail.com
 - 👩🏻‍💻 Boot.DEV: [View my Boot.Dev progress!](https://www.boot.dev/u/agreeableratio90)
 
