@@ -9,8 +9,9 @@ Thank you for visiting my side of the internet!
 
 ## TECH STACK
 I have learned or am continuing learning in the following programming languages, skills and frameworks:
+
 **Languages**
-Languages
+
 1. C#
 2. SQL
 3. PHP
@@ -18,18 +19,21 @@ Languages
 5. Bootstrap
 8. Javascript
 9. Python
+
 **Tools**
-Tools
+
 1. Visual Studio 2022
 2. Visual Studio Code
 3. Git & Github
+
 **Concepts**
-Concepts
+
 1. AGILE/SCRUM METHODOLOGIES
 2. UI/UX DESIGN
 3. Web apps with MVC
+
 **Skills**
-Skills
+
 1. Data visualization
 2. Communication
 3. Business Requirement Documentation
