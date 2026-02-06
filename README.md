@@ -42,7 +42,7 @@ I have learned or am continuing learning in the following programming languages,
 3. Reviewing older concepts and programming languages on sites like Boot.DEV, Microsoft Learn and FreeCodeCamp.
 
 ## Connect With Me 
-- 🌐 Portfolio: [View my portfolio](https://github.com/Ash097Schlacct.github.io/Portfolio.md)
+- 🌐 Portfolio: [Coming Soon]
 - 💼 LinkedIn: https://www.linkedin.com/in/ashley-steward-27335b303
 - 📧 Email: ashwatd04@gmail.com
 - 👩🏻‍💻 Boot.DEV: [View my Boot.Dev progress!](https://www.boot.dev/u/agreeableratio90)
