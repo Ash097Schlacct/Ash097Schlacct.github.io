@@ -18,4 +18,8 @@ I have learned or am continuing learning in the following programming languages,
 I also love art (digital and traditional)! I have always loved animation, drawing, painting and visual development. 
 Thank you for visiting my side of the internet! 
 
+## WHAT I'M WORKING ON NOW
+1. Preparing for my COMPTIA A+ certification
+2. Developing portfolio showcases on my own time
+3. Reviewing older concepts and programming languages on sites like Boot.DEV, Microsoft Learn and FreeCodeCamp. 
 [View my Boot.Dev progress!] (https://www.boot.dev/u/agreeableratio90)
