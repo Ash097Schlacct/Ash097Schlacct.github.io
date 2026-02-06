@@ -48,8 +48,8 @@ I have learned or am continuing learning in the following programming languages,
 ## Connect With Me
 
 - 🌐 Portfolio: coming soon
-- 💼 LinkedIn: www.linkedin.com/in/ashley-steward-27335b303
+- 💼 LinkedIn: [View my Linkedin](www.linkedin.com/in/ashley-steward-27335b303)
 - 📧 Email: ashwatd04@gmail.com
-- 👩🏻‍💻 Boot.DEV: [View my Boot.Dev progress!] (https://www.boot.dev/u/agreeableratio90)
+- 👩🏻‍💻 Boot.DEV: [View my Boot.Dev progress!](https://www.boot.dev/u/agreeableratio90)
 - 📄 Resume: [Download PDF](Ashley_Steward_Resume.pdf)
 
